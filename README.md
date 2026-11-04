@@ -4,6 +4,12 @@ An open-source 8-toolhead toolchanger for 3D printers, built around the [A4T too
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
+## Scope
+
+This repository covers the **hardware** side of A4T-C: CAD, printable parts, PCBs, and the bill of materials.
+
+Klipper macros, printer configs, and the Mosaic tools will live in a separate repository, which will be linked here once it has a name.
+
 ## Project creators
 
 - **Michael** ([@Slimohan](https://github.com/Slimohan))
