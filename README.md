@@ -1,0 +1,40 @@
+# A4T-C
+
+An open-source 8-toolhead toolchanger for 3D printers, built around the [A4T toolhead](https://github.com/Armchair-Heavy-Industries/A4T).
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
+## Project creators
+
+- **Michael** ([@Slimohan](https://github.com/Slimohan))
+- **[@cdanisor](https://github.com/cdanisor)**
+
+The full list of credits is in [AUTHORS.md](AUTHORS.md).
+
+## Based on A4T
+
+A4T-C is a derivative of **A4T**, a toolhead designed by [DW-Tas](https://github.com/DW-Tas) and published by [Armchair Heavy Industries](https://github.com/Armchair-Heavy-Industries/A4T).
+The original A4T project also credits:
+
+- The Crew and Contributors at Voron Design
+- [yellowfish543](https://github.com/yellowfish543/StdToolheadOpenfoam/) for CFD insights
+- weaslus, for the name "backflow inhibitors"
+- [Corunir](https://github.com/Corunir) for the configurator wizard
+
+If A4T is useful to you, consider supporting DW-Tas through [Ko-fi](https://ko-fi.com/O5O5OCC0K).
+
+A4T-C is an independent derivative. The original A4T creators do not endorse it.
+
+## License
+
+This work is licensed under the same license as A4T:
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+The full text is in [LICENSE](LICENSE).
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+The A4T project clarifies its non-commercial term as follows. The term covers cases where the design itself is the product: selling it as a product requires a commercial license from the original creators. Using it in a printer that provides commercial services, such as a print farm, is allowed.
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
