@@ -2,6 +2,8 @@
 
 An open-source 8-toolhead toolchanger for 3D printers, built around the [A4T toolhead](https://github.com/Armchair-Heavy-Industries/A4T).
 
+This is currently in active development, so all files are likely to change. The current version is tested and working but is still considered BETA. 
+
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 ## Scope
