@@ -5,6 +5,10 @@
 - Michael ([@Slimohan](https://github.com/Slimohan)): co-creator
 - [@cdanisor](https://github.com/cdanisor): co-creator
 
+## Contributors
+
+- kral_pivex (Discord): maintains the [bill of materials](https://docs.google.com/spreadsheets/d/1BpOGoed5-w5looXP_i0q-_DWB_vuSzNozRO246CXfhI/edit?gid=0#gid=0)
+
 ## Upstream: A4T toolhead
 
 A4T-C is derived from A4T, licensed CC BY-NC-SA 4.0.

@@ -18,6 +18,13 @@ Klipper macros, printer configs, and the Mosaic tools will live in a separate re
 | --- | --- |
 | [`CAD/A4T-C_BETA_Release.step`](CAD/A4T-C_BETA_Release.step) | Full A4T-C assembly (STEP AP214), BETA release |
 
+## Bill of materials
+
+The BOM for the main toolhead and the additional toolheads is kept as a live Google Sheet:
+**[A4T-C BOM (Google Sheets)](https://docs.google.com/spreadsheets/d/1BpOGoed5-w5looXP_i0q-_DWB_vuSzNozRO246CXfhI/edit?gid=0#gid=0)**
+
+The BOM is maintained by Discord user **kral_pivex**. The sheet is the most current version; refer to it rather than to any copy.
+
 ## Project creators
 
 - **[@Slimohan](https://github.com/Slimohan)**
