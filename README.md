@@ -12,6 +12,12 @@ This repository covers the **hardware** side of A4T-C: CAD, printable parts, PCB
 
 Klipper macros, printer configs, and the Mosaic tools will live in a separate repository, which will be linked here once it has a name.
 
+## Files
+
+| Path | Contents |
+| --- | --- |
+| [`CAD/A4T-C_BETA_Release.step`](CAD/A4T-C_BETA_Release.step) | Full A4T-C assembly (STEP AP214), BETA release |
+
 ## Project creators
 
 - **[@Slimohan](https://github.com/Slimohan)**
