@@ -14,7 +14,7 @@ Klipper macros, printer configs, and the Mosaic tools will live in a separate re
 
 ## Project creators
 
-- **Michael** ([@Slimohan](https://github.com/Slimohan))
+- **[@Slimohan](https://github.com/Slimohan))
 - **[@cdanisor](https://github.com/cdanisor)**
 
 The full list of credits is in [AUTHORS.md](AUTHORS.md).
