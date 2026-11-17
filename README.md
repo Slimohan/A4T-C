@@ -17,7 +17,7 @@ Every tool needs its **own dedicated** pins on a controller:
 
 - a heater output
 - a thermistor input
-- fan outputs (hotend fan and part-cooling fan)
+- fan outputs (hotend fan)
 
 These **cannot be shared** between tools. Most printer main boards have only a few heater outputs, and that number caps how many tools you can run. To run A4T-C, or any other toolchanger, plan on a **separate MCU** to control the tools, such as a spare main board with extra heater outputs.
 
