@@ -68,7 +68,7 @@ Klipper macros, printer configs, and the Mosaic tools will live in a separate re
 
 | Path | Contents |
 | --- | --- |
-| [`CAD/A4T-C_BETA_Release.step`](CAD/A4T-C_BETA_Release.step) | Full A4T-C assembly (STEP AP214), BETA release |
+| [`CAD/A4T-C_BETA_Release_v3.step`](CAD/A4T-C_BETA_Release_v3.step) | Full A4T-C assembly (STEP AP214), BETA release v3 |
 
 ## Bill of materials
 
