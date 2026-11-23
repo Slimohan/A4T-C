@@ -140,4 +140,4 @@ One more hotend tool.
 
 Some of the gears and shafts are included in the LGX gear set.
 
-The hotend screw rows depend on the hotend you choose. Buy only the screws for your hotend.
+The hotend screw rows depend on the hotend you choose. Buy only the screws for your hotend. Some hotend kits come with the required hotend screws.
