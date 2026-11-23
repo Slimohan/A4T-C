@@ -8,6 +8,7 @@ All notable changes to the A4T-C hardware are listed here, newest first.
 
 - **Printable parts.** STL files are now published in the repository, in [`STL/`](STL).
 - **Dragon HF hotend support.** The TZ v6 hotend mount and cover now also fit the Dragon HF.
+- **LGX / HGX v1: main gear on a 3 mm pin.** Besides the 4 mm pin version, there is now a main module and left cover for a main gear on a 3 mm pin, in [`STL/Main Body/LGX-HGX v1/Main gear 3mm pin/`](<STL/Main Body/LGX-HGX v1/Main gear 3mm pin>).
 - **HGX Lite extruder kit support.** Bearing versions of the main module and left cover are in [`STL/Main Body/HGX Lite/`](<STL/Main Body/HGX Lite>).
 - **Multicolor Rapido covers.** Covers for tools T0–T4 are in [`STL/Hotends/Rapido/Multicolor Covers/`](<STL/Hotends/Rapido/Multicolor Covers>), as 3MF files.
 - **BOM in the repository.** [BOM.md](BOM.md) is based on the initial community BOM created by Discord user **kral_pivex**. Thank you! Changes from that sheet:
@@ -17,6 +18,7 @@ All notable changes to the A4T-C hardware are listed here, newest first.
   - Dock magnets: 2× D6x6 **or** 4× D6x3.
   - The dock screws changed from 2× M3x20 BHCS to 2× **M3x16 BHCS**. They must be **steel**, so the dock magnets attract them.
   - The heat inserts are now specified as **M3x4x5**.
+  - The main gear shaft depends on the main body: D4x18 for the LGX / HGX v1 4 mm pin version, D3x18 for the LGX / HGX v1 3 mm pin and HGX Lite versions.
 
 ### Changed
 
@@ -37,10 +39,11 @@ Print every part in [`STL/Main Body/Common/`](<STL/Main Body/Common>). Then prin
 
 | Extruder | Main module | Left cover |
 | --- | --- | --- |
-| LGX / HGX v1 | `LGX-HGX v1/Main module.stl` | `LGX-HGX v1/Left Cover.stl` |
+| LGX / HGX v1, main gear on a 4 mm pin | `LGX-HGX v1/Main gear 4mm pin/Main module.stl` | `LGX-HGX v1/Main gear 4mm pin/Left Cover.stl` |
+| LGX / HGX v1, main gear on a 3 mm pin | `LGX-HGX v1/Main gear 3mm pin/Main module.stl` | `LGX-HGX v1/Main gear 3mm pin/Left Cover.stl` |
 | HGX Lite kit | `HGX Lite/Main module Bearing.stl` | `HGX Lite/Left Cover Bearing.stl` |
 
-The HGX Lite parts replace only these two parts. All other parts are shared.
+Each pair replaces only these two parts. All other parts are shared.
 
 ## BETA v3
 

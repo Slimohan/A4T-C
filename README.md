@@ -84,7 +84,8 @@ Current version: **BETA v4**. See [CHANGELOG.md](CHANGELOG.md) for what changed.
 | Path | Contents |
 | --- | --- |
 | [`STL/Main Body/Common/`](<STL/Main Body/Common>) | Parts every build needs: right cover, lever, gear mount, EBB36 mount, XOL carriage adapter |
-| [`STL/Main Body/LGX-HGX v1/`](<STL/Main Body/LGX-HGX v1>) | Main module and left cover for LGX / HGX v1 |
+| [`STL/Main Body/LGX-HGX v1/Main gear 4mm pin/`](<STL/Main Body/LGX-HGX v1/Main gear 4mm pin>) | Main module and left cover for LGX / HGX v1, main gear on a 4 mm pin |
+| [`STL/Main Body/LGX-HGX v1/Main gear 3mm pin/`](<STL/Main Body/LGX-HGX v1/Main gear 3mm pin>) | Main module and left cover for LGX / HGX v1, main gear on a 3 mm pin |
 | [`STL/Main Body/HGX Lite/`](<STL/Main Body/HGX Lite>) | Main module and left cover with bearing, for the HGX Lite kit |
 | [`STL/Dock/`](STL/Dock) | Dock: arm, cable arm, docking mount, nozzle blocker mount |
 | [`STL/Hotends/Rapido/`](STL/Hotends/Rapido) | Rapido hotend mount and cover |
@@ -92,7 +93,7 @@ Current version: **BETA v4**. See [CHANGELOG.md](CHANGELOG.md) for what changed.
 | [`STL/Hotends/TZv6 and Dragon HF/`](<STL/Hotends/TZv6 and Dragon HF>) | TZ v6 / Dragon HF hotend mount and cover |
 | [`STL/Hotends/X1C/`](STL/Hotends/X1C) | X1C hotend mount (loose and tight fit) and cover |
 
-**Main body:** print everything in `Common/`, plus **either** the `LGX-HGX v1/` pair **or** the `HGX Lite/` pair. The HGX Lite parts replace only the main module and the left cover.
+**Main body:** print everything in `Common/`, plus **one** main module / left cover pair: `LGX-HGX v1/Main gear 4mm pin/`, `LGX-HGX v1/Main gear 3mm pin/` (pick the one that matches your main gear's pin), or `HGX Lite/`. The HGX Lite parts replace only the main module and the left cover.
 
 ## Bill of materials
 
