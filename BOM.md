@@ -56,7 +56,7 @@ Includes **one hotend**.
 | 1 | Shaft D4x18 **or** D3x18 | Main gear shaft. D4x18 for the LGX / HGX v1 4 mm pin main body; D3x18 for the LGX / HGX v1 3 mm pin and HGX Lite main bodies |
 | 1 | Spring | |
 | 6 | Shaft D2x6 | |
-| 1 | Shaft D3x21 | |
+| 1 | Shaft D3x20 | |
 
 ### Heat inserts
 
