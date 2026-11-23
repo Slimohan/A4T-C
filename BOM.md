@@ -100,7 +100,6 @@ One more hotend tool.
 | 1 | 2510 fan | Hotend fan |
 | 1 | D2F-L microswitch | |
 | 1 | Hotend: Phaetus Rapido / TZ V6 / Dragon HF / X1C | |
-| 1 | EBB36 CAN v1.1 | 1× hotend output. See note 2 |
 
 ### Magnets
 
@@ -137,7 +136,7 @@ One more hotend tool.
 2. Example controller setups:
    - BTT Octopus + 4× EBB36 = 8 hotends
    - Any main board + Pulsar 3D Hydra = 8 hotends
-   - Any main board + 3× EBB36/42 = 4 hotends
+   
 
 Some of the gears and shafts are included in the LGX gear set.
 
