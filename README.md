@@ -68,14 +68,40 @@ Klipper macros, printer configs, and the Mosaic tools will live in a separate re
 
 | Path | Contents |
 | --- | --- |
-| [`CAD/A4T-C_BETA_Release_v3.step`](CAD/A4T-C_BETA_Release_v3.step) | Full A4T-C assembly (STEP AP214), BETA release v3 |
+Current version: **BETA v4**. See [CHANGELOG.md](CHANGELOG.md) for what changed.
+
+### CAD (STEP AP214)
+
+| Path | Contents |
+| --- | --- |
+| [`CAD/A4T-C Main Body.step`](<CAD/A4T-C Main Body.step>) | Main body |
+| [`CAD/Rapido_Hotend.step`](CAD/Rapido_Hotend.step) | Rapido hotend variant |
+| [`CAD/TZ v6 Dragon HF Hotend.step`](<CAD/TZ v6 Dragon HF Hotend.step>) | TZ v6 / Dragon HF hotend variant |
+| [`CAD/X1C Hotend.step`](<CAD/X1C Hotend.step>) | X1C hotend variant |
+
+### Printable parts
+
+| Path | Contents |
+| --- | --- |
+| [`STL/Main Body/Common/`](<STL/Main Body/Common>) | Parts every build needs: right cover, lever, gear mount, EBB36 mount, XOL carriage adapter |
+| [`STL/Main Body/LGX-HGX v1/`](<STL/Main Body/LGX-HGX v1>) | Main module and left cover for LGX / HGX v1 |
+| [`STL/Main Body/HGX Lite/`](<STL/Main Body/HGX Lite>) | Main module and left cover with bearing, for the HGX Lite kit |
+| [`STL/Dock/`](STL/Dock) | Dock: arm, cable arm, docking mount, nozzle blocker mount |
+| [`STL/Hotends/Rapido/`](STL/Hotends/Rapido) | Rapido hotend mount and cover |
+| [`STL/Hotends/Rapido/Multicolor Covers/`](<STL/Hotends/Rapido/Multicolor Covers>) | Multicolor Rapido covers T0–T4 (3MF) |
+| [`STL/Hotends/TZv6 and Dragon HF/`](<STL/Hotends/TZv6 and Dragon HF>) | TZ v6 / Dragon HF hotend mount and cover |
+| [`STL/Hotends/X1C/`](STL/Hotends/X1C) | X1C hotend mount (loose and tight fit) and cover |
+
+**Main body:** print everything in `Common/`, plus **either** the `LGX-HGX v1/` pair **or** the `HGX Lite/` pair. The HGX Lite parts replace only the main module and the left cover.
 
 ## Bill of materials
 
-The BOM for the main toolhead and the additional toolheads is kept as a live Google Sheet:
-**[A4T-C BOM (Google Sheets)](https://docs.google.com/spreadsheets/d/1BpOGoed5-w5looXP_i0q-_DWB_vuSzNozRO246CXfhI/edit?gid=0#gid=0)**
+The BOM for BETA v4 is in **[BOM.md](BOM.md)**. It has two lists:
 
-The BOM is maintained by Discord user **kral_pivex**. The sheet is the most current version; refer to it rather than to any copy.
+- **Main toolhead:** the main body **plus one complete hotend tool**.
+- **Additional toolhead:** one more hotend tool. Repeat it for each extra tool.
+
+Thanks to Discord user **kral_pivex**, who created the initial BOM as a [community Google Sheet](https://docs.google.com/spreadsheets/d/1BpOGoed5-w5looXP_i0q-_DWB_vuSzNozRO246CXfhI/edit?gid=0#gid=0). BOM.md is based on that sheet.
 
 ## Project creators
 

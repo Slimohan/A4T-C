@@ -7,7 +7,7 @@
 
 ## Contributors
 
-- kral_pivex (Discord): maintains the [bill of materials](https://docs.google.com/spreadsheets/d/1BpOGoed5-w5looXP_i0q-_DWB_vuSzNozRO246CXfhI/edit?gid=0#gid=0)
+- kral_pivex (Discord): created the initial [bill of materials](https://docs.google.com/spreadsheets/d/1BpOGoed5-w5looXP_i0q-_DWB_vuSzNozRO246CXfhI/edit?gid=0#gid=0), which [BOM.md](BOM.md) is based on
 
 ## Upstream: A4T toolhead
 

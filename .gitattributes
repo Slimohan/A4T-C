@@ -1,0 +1,5 @@
+# Keep CAD exports byte-identical to the Fusion output
+*.step -text
+*.stp  -text
+*.stl  binary
+*.3mf  binary
