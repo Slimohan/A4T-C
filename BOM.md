@@ -36,7 +36,7 @@ Includes **one hotend**.
 
 | Qty | Part | Notes | Link |
 | ---: | --- | --- | --- |
-| 2 | D6x6 magnet **or** 4× D6x3 | Dock magnets | |
+| 2 | D6x6 magnet **or** 4× D6x3 | Dock magnets. Two D6x3 magnets stacked on top of eachother can substitute for one D6x6 magnet | |
 | 8 | D6x3 magnet | Coupling | |
 
 ### Bearings
