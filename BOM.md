@@ -28,9 +28,9 @@ Includes **one hotend**.
 | 2 | D2F-L microswitch | | |
 | 1 | Cartographer Beacon H | | |
 | 1 | Hotend: Phaetus Rapido / TZ V6 / Dragon HF / X1C | | |
-|---| Below are possible hotend output sources. You only need 1. See note 1.  | --- | --- | 
-| 1 | BTT Octopus v1.1 | 4× hotend outputs. See note 1 | |
-| 1 | Pulsar 3D Hydra | 8× hotend outputs. See note 1 | |
+|---| Below are possible hotend output sources. You don't need all of them, see notes 1 and 2.  | --- | --- | 
+| 1 | BTT Octopus v1.1 | 4× hotend outputs | |
+| 1 | Pulsar 3D Hydra | 8× hotend outputs | |
 
 ### Magnets
 
@@ -54,10 +54,10 @@ Includes **one hotend**.
 | 2 | Extruder gear 36T | Included in HGX/LGX Gear Set | |
 | 1 | Gear 44T / 17T | Included in HGX/LGX Gear Set | |
 | 2 | Shaft D3x16 | Included in HGX/LGX Gear Set | |
-| 1 | Shaft D4x18 **or** D3x18 | Main gear shaft. D4x18 for the LGX/HGX v1 4 mm pin main body; D3x18 for the LGX/HGX v1 3 mm pin and HGX Lite main bodies. Included in HGX Gear Set. | |
+| 1 | Shaft D4x18 **or** D3x18 | Main gear shaft. D4x18 for the LGX/HGX v1 4 mm pin main body; D3x18 for the LGX/HGX v1 3 mm pin and HGX Lite main bodies. Included in HGX Gear Set | |
 | 1 | Spring | Included in HGX/LGX Gear Set | |
 | 6 | Shaft D2x6 | | |
-| 1 | Shaft D3x20 | | |
+| 1 | Shaft D3x20 | | | 
 
 ### Heat inserts
 
@@ -134,10 +134,11 @@ One more hotend tool.
 ## Notes
 
 1. Which controller you need depends on how your printer is already equipped and on the parts you already have. Each hotend needs its **own** heater output: two or more hotends cannot share one output. See [Before you build](README.md#before-you-build).
+
 2. Example controller setups:
    - BTT Octopus + 4× EBB36 = 8 hotends
    - Any main board + Pulsar 3D Hydra = 8 hotends
-   
+
 3. Some of the gears and shafts are included in the LGX/HGX gear set. HGX is an LGX clone. 
 
 4. The hotend screw rows depend on the hotend you choose. Buy only the screws for your hotend. Some hotend kits come with the required hotend screws.
