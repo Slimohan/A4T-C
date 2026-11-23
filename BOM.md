@@ -45,7 +45,7 @@ Includes **one hotend**.
 | ---: | --- | --- | --- |
 | 1 | 623 bearing | | |
 | 2 | MR63 2Z bearing | | |
-| 3 | D4 ball bearing | | |
+| 3 | D4 ball bearing | Can be harvested from 608 bearings, see note 5 | |
 
 ### Gears, shafts, spring
 
@@ -113,7 +113,7 @@ One more hotend tool.
 
 | Qty | Part | Notes | Link |
 | ---: | --- | --- | --- |
-| 3 | D4 ball bearing | | |
+| 3 | D4 ball bearing | Can be harvested from 608 bearings, see note 5 | |
 
 ### Screws and nuts
 
@@ -141,3 +141,5 @@ One more hotend tool.
 3. Some of the gears and shafts are included in the LGX/HGX gear set. HGX is an LGX clone. 
 
 4. The hotend screw rows depend on the hotend you choose. Buy only the screws for your hotend. Some hotend kits come with the required hotend screws.
+
+5. 608 bearings typically have 7 balls, although they are slightly smaller than D4 ball bearings (3.969 mm).
