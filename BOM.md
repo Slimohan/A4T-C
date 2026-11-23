@@ -45,7 +45,7 @@ Includes **one hotend**.
 | ---: | --- | --- | --- |
 | 1 | 623 bearing | | |
 | 2 | MR63 2Z bearing | | |
-| 3 | D4 ball bearing | Can be harvested from 608 bearings, see note 5 | |
+| 3 | D4 bearing ball | Can be harvested from 608 bearings, see note 5 | |
 
 ### Gears, shafts, spring
 
@@ -113,7 +113,7 @@ One more hotend tool.
 
 | Qty | Part | Notes | Link |
 | ---: | --- | --- | --- |
-| 3 | D4 ball bearing | Can be harvested from 608 bearings, see note 5 | |
+| 3 | D4 bearing ball | Can be harvested from 608 bearings, see note 5 | |
 
 ### Screws and nuts
 
